@@ -1,0 +1,20 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "Project management app",
+  "keywords": [
+    "learning",
+    "backend",
+    "database"
+  ],
+  "license": "ISC",
+  "author": "Amitab Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.9"
+  }
+}
